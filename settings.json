@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "playzmcnet.aternos.me",
+    "ip": "playzmcnet.aternos.me:19954",
     "port": 19954,
     "version": "1.21.1"
   },
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "Subscribe to AnasPlayZ!",
         "I like to play Minecraft!"
       ]
     },
